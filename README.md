@@ -67,24 +67,6 @@ I am a passionate **Software Engineer** based in **Pune, India**, currently work
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Crop Recommendation System** | A hybrid ensemble model (CNN-SVM-KNN) analyzing soil images & location data via Google Maps API for crop prediction. | `Python` `CNN` `SVM` `Google Maps API` |
-| **GNN Recommender System** | Developed during my internship at Persistent Systems. Modeled user-item interactions using Graph Neural Networks, boosting accuracy by 22%. | `PyTorch Geometric` `Neo4j` `Python` |
-| **Audit Microservice** | A Spring Boot service developed to facilitate seamless inter-service communication and automated data ingestion. | `Java` `Spring Boot` `SQL` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amartyasurve&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyasurve&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
-
 <br/>
 
 <div align="center"> 
